@@ -1,0 +1,12 @@
+body {
+  font-size: 14px;
+  color: #757575;
+  background-color: #fff;
+}
+
+.hero {
+  background-color: #2f303a;
+}
+.hero-title {
+  color: #ffffff;
+}
